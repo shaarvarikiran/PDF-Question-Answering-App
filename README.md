@@ -15,3 +15,7 @@ Before running the backend, make sure you have Node.js and npm (Node Package Man
    ```bash
    git clone https://github.com/shaarvarikiran/pdf-question-answering-app.git
    cd pdf-question-answering-app/backend
+
+# Navigate to the project folder:
+
+```cd pdf-question-answering-app```
