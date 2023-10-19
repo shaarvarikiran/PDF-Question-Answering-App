@@ -1,2 +1,17 @@
-# PDF_Roberta
-This repository contains a backend for PDF Question Answering application that leverages Hugging Face's Transformers library for natural language processing. The app allows users to upload PDF documents, extract text from them, and perform question-answering tasks on the extracted text.
+# PDF Question Answering App (Backend)
+
+This is the backend code for a PDF Question Answering web application. It provides two main features:
+
+1. **Upload and Extract Text from PDF Files:** Upload a PDF file, and the application will extract the text content from it.
+
+2. **Question Answering:** Given a question and context, the application uses a pre-trained model to provide answers.
+
+## Getting Started
+
+Before running the backend, make sure you have Node.js and npm (Node Package Manager) installed.
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/shaarvarikiran/pdf-question-answering-app.git
+   cd pdf-question-answering-app/backend
