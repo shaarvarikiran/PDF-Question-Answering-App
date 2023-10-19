@@ -81,7 +81,3 @@ You can use Postman to test the backend API endpoints for the PDF Question Answe
 
 # Contributions
 Contributions are welcome! If you'd like to enhance this PDF Question Answering App, feel free to fork the repository, make improvements, and submit pull requests.
-
-# License
-This project is licensed under the MIT License.
-
